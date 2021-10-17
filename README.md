@@ -12,8 +12,6 @@ Compatibility: iOS 11 or greater<br/>
 
 TomatoProgressThreeColorsFramework lets you run a simple, circular progressive wheel with three colors of your selection.  You have options of showing or not showing a button for aborting progress on top of a number of other settings like the speed of rotation.
 
-TomatoCal (compatible with iOS 11 or greater, tested with an actual device running iOS 13.3.1, simulator running iOS 14.4) is a customizable Swift framework (those Previous and Next buttons in the screenshot above not included) used for iOS devices.  Each cell is a button that the user can tap.  And the framework will return the year, the month, day of the month, day of the week of the selected date all as numbers (Int).  You can change the cell size (Int) between 24 and 60 (inclusive) such that you can create a calendar adjusted for each device size.
-
 In order to use this framework, download the sample project.  You will find the folder titled 'TomatoProgressThreeColorsFramework.'  Locate the Xcode file inside.  And put this Xcode file in your Xcode project.  Select your target and make sure you have 'TomatoProgressThreeColorsFramework.framework' under General > Framworks, Libraries, and Embeded Content as shown below.
 
 ![](Screenshots/Screenshot_002.jpg)
