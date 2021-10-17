@@ -10,7 +10,9 @@ Compatibility: iOS 11 or greater<br/>
 
 <h2>Description</h2>
 
-TomatoProgressThreeColorsFramework lets you run a simple, circular progressive wheel with three colors of your selection.  You have options of showing or not showing a button for aborting progress on top of a number of other settings like the speed of rotation.
+TomatoProgressThreeColors lets you run a simple, circular, customizable progressive wheel with three colors of your selection.  You have options of showing or not showing a button for aborting progress on top of a number of other settings like the speed of rotation.
+
+<h2>Using TomatoProgressThreeColors</h2>
 
 In order to use this framework, download the sample project.  You will find the folder titled 'TomatoProgressThreeColorsFramework.'  Locate the Xcode file inside.  And put this Xcode file in your Xcode project.  Select your target and make sure you have 'TomatoProgressThreeColorsFramework.framework' under General > Framworks, Libraries, and Embeded Content as shown below.
 
