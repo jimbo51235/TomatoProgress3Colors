@@ -24,9 +24,9 @@ Step 1: Import the framework to your Xcode project.<br/>
 Step 2: Import TomatoProgressThreeColorsFramework to your view controller.<br/>
 Step 3: In your view controller, create a blank UIView object whose frame is the same as that of view controller's view.<br/>
 Step 4: When you are ready to run a 3-color progressive wheel, instantiate TomatoProgressThreeColorsView to create a UIView object.<br/>
-Step 5: Add the UIView object in Step 4 to the blank UIView object in Step 3. 
-Step 6: Add the blank UIView object to view controller's view.
-Step 7: If you need to take down the progress view, remove the blank UIView object from its super view.
+Step 5: Add the UIView object in Step 4 to the blank UIView object in Step 3.<br/>
+Step 6: Add the blank UIView object to view controller's view.<br/>
+Step 7: If you need to take down the progress view, remove the blank UIView object from its super view.<br/>
 
 <h2>Initial values</h2>
 
