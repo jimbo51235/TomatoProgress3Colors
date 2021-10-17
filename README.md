@@ -1,4 +1,4 @@
-# TomatoProgressThreeColorsFramework
+# TomatoProgressThreeColors Framework
 
 ![](Screenshots/Screenshot_001.jpg)
 
