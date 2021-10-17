@@ -57,3 +57,6 @@ abortButtonSize: It's the abort button size.<br/>
 abortBackColor: It's the background color of the abort button.<br/>
 abortTitleNormalColor: It's the title color the abort button for the normal state.<br/>
 abortTitleHighlightedColor: It's the title color the abort button for the highlighted state.<br/>
+
+<h2>Notes</h2>
+1. The wheel stroke values must be continuous, or the framework won't show a progessive wheel, and you will see a console message that says 'Wrong degrees!.'  That is, endDegree0 must equal startDegree1, and endDegree1 must equal startDegree2.  Additionally, the summation of the absolute values of start and end degree numbers must equal 360.
